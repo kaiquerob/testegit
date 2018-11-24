@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "teste do git hub";
+        echo "teste do git hub commit";
         ?>
     </body>
 </html>
